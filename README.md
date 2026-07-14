@@ -1,0 +1,2 @@
+# auroradiamondtowers
+Static site: auroradiamondtowers
